@@ -1,0 +1,4 @@
+name: ChickenShooter
+version: '1.0'
+main: dev.steph.chickenshooter.ChickenShooter
+api-version: '1.20'

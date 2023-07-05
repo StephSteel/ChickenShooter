@@ -1,0 +1,4 @@
+name: ChickenShooter
+version: '${project.version}'
+main: dev.steph.chickenshooter.ChickenShooter
+api-version: '1.20'
