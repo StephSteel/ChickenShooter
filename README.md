@@ -5,10 +5,12 @@
 Welcome to ChickenShooter version 1.0! This plugin brings a whole new level of excitement to your Minecraft server. Prepare for an adrenaline-pumping experience as you wield the powerful chicken shooter and unleash chaos in your world. Witness the creation of mesmerizing fire animations upon shooting chickens, immersing yourself in a visually stunning and immersive gameplay.
 
 
-## Images From In Game
+## Showcase
 ![Chicken Shooter](https://github.com/StephSteel/ChickenShooter/assets/138608345/9758d286-80d0-4a53-92a1-8601d54327df)   The chicken shooter where you shoot chickens to the air!
-![The Chicken](https://github.com/StephSteel/ChickenShooter/assets/138608345/30ec26ed-b4e0-4a6d-9a70-0a9042b1d170)    This is what it looks like when you shoot a chicken to the air! They have cool fire particle effects.   
-(This is a close up image they can go really far depending on how much you charge the bow!)
+
+
+https://github.com/StephSteel/ChickenShooter/assets/138608345/ab59e4e1-6c49-499d-8dbe-0d1c89695740
+
 
 
 
