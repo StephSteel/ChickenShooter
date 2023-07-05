@@ -1,9 +1,6 @@
 # ChickenShooter - Version 1.0
 
 
-# Showcase Video:
-
-
 ## Description
 Welcome to ChickenShooter version 1.0! This plugin brings a whole new level of excitement to your Minecraft server. Prepare for an adrenaline-pumping experience as you wield the powerful chicken shooter and unleash chaos in your world. Witness the creation of mesmerizing fire animations upon shooting chickens, immersing yourself in a visually stunning and immersive gameplay.
 
