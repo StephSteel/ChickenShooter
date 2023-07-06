@@ -44,7 +44,7 @@ I highly value your feedback to improve ChickenShooter based on your suggestions
 
 
 ## License
-ChickenShooter is released under the MIT License, allowing you to modify and distribute the plugin in accordance with the terms of the license.
+ChickenShooter is released under the **MIT License**, allowing you to modify and distribute the plugin in accordance with the terms of the license.
 
 
 ## Credits
